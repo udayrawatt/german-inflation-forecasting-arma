@@ -66,10 +66,10 @@ Sample: January 1996 – November 2025 (358 observations)
 
 | File | Description |
 |------|-------------|
-| `inflation monthly.csv` | Constructed monthly inflation series |
-| `germany hicp fred.xlsx` | Raw HICP index data from FRED |
-| `forecast gretl.xlsx` | ARMA(1,1) forecasts vs actuals (2024–2025) |
-| `assignment dfe.gretl` | Gretl script — full model estimation |
+| `inflation_monthly.csv` | Constructed monthly inflation series |
+| `germany_hicp_fred.xlsx` | Raw HICP index data from FRED |
+| `forecast_gretl.xlsx` | ARMA(1,1) forecasts vs actuals (2024–2025) |
+| `assignment_dfe.gretl` | Gretl script — full model estimation |
 | `Inflation_Forecasting_Uday_Rawat.pdf` | Full empirical paper |
 | `figures/` | Gretl output: ACF/PACF, ADF results, forecast plots |
 
