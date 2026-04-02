@@ -3,8 +3,8 @@
 **Course:** Dynamic & Financial Econometrics  
 **Institution:** Wroclaw University of Economics (Erasmus Exchange)  
 **Author:** Uday Rawat  
-**Grade:** 1.0 (highest distinction — German grading scale)
-** Date:** January 2026  
+**Grade:** 1.0 (highest distinction — German grading scale)   
+**Date:** January 2026  
 
 ---
 
